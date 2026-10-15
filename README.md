@@ -1,7 +1,6 @@
-<h1 align="center">Hello There 👋 ! <br>Junior Full Stack Developer</h1>
+<h1 align="center">Hello There 👋 ! <br>Software Engineer</h1>
 <p align="center">
   <img alt="github" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="70px" width="70px">
-  <img alt="bongo-cat" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" height="70px" width="70px">
 </p>
 
 
